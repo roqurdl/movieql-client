@@ -1,4 +1,4 @@
-import { gql, useApolloClient, useQuery } from "@apollo/client";
+import { gql, useQuery } from "@apollo/client";
 import { Link } from "react-router-dom";
 // import { useEffect, useState } from "react";
 
